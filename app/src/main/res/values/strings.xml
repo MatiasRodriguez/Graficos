@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Graficos</string>
+    <string name="NomEvent">1 = Evento1</string>
+    <string name="NomEvent2">2 = Evento2</string>
+    <string name="NomEvent3">3 = Evento3</string>
+    <string name="NomEvent4">4 = Evento4</string>
+</resources>
